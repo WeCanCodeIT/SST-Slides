@@ -10,13 +10,23 @@ In this session, students should all bring a copy of their current resume to cla
 - How will your resume look different from versions before you decided on this field?  How will it look similar?
 
 
-## How-to Steps
-- [ ] Make a copy of the [WCCI Starter Resume Template](https://docs.google.com/document/d/15enbNPsfgIxnn1h9U0ycjRZFZuECQ5HbhfZmuudsZpk/edit?usp=sharing) on your Google Drive, saved as “(Your Name) Resume.  Share with your SSC!
-- [ ] Enter your credentials where outlined in the template (Name, City, State, Contact Information, Online Presence, etc.)
-- [ ] Determine whether you need a [chronological, functional, or combination](https://www.thebalance.com/resume-types-chronological-functional-combination-2063235) resume (most will need combination, but it is worth reviewing your options and making certain you're using the format that best serves your needs.
-- [ ] Brainstorm & write out a list of your most desirable, related qualifications (should form the cornerstone of your resume) This will include your tech stack (you’ll need to choose the list from your specific campus, available within the template resume) your projects and work at WCCI and any other programming experience, and other core competencies and strengths.  Make sure these shine in your content, by choosing projects that show your best work (don’t worry if you’re not there yet!) and quantifiable, demonstrable abilities and achievements from your work experience.
-- [ ] Check out other resumes, LinkedIn profiles, and job postings for ideas of how best to market yourself and your abilities.
-- [ ] Make sure you’ve created resume content to market yourself as a programmer.  Strengths and accomplishments from your past should be included where relevant, but shouldn’t detract from your current path.
+## How-to Step #1
+- Make a copy of the [WCCI Starter Resume Template](https://docs.google.com/document/d/15enbNPsfgIxnn1h9U0ycjRZFZuECQ5HbhfZmuudsZpk/edit?usp=sharing) on your Google Drive, saved as “(Your Name) Resume.  Share with your SSC!
+
+## How-to Step #2
+- Enter your credentials where outlined in the template (Name, City, State, Contact Information, Online Presence, etc.)
+
+## How-to Step #3
+- Determine whether you need a [chronological, functional, or combination](https://www.thebalance.com/resume-types-chronological-functional-combination-2063235) resume (most will need combination, but it is worth reviewing your options and making certain you're using the format that best serves your needs.
+
+## How-to Step #4
+- Brainstorm & write out a list of your most desirable, related qualifications (should form the cornerstone of your resume) This will include your tech stack (you’ll need to choose the list from your specific campus, available within the template resume) your projects and work at WCCI and any other programming experience, and other core competencies and strengths.  Make sure these shine in your content, by choosing projects that show your best work (don’t worry if you’re not there yet!) and quantifiable, demonstrable abilities and achievements from your work experience.
+
+## How-to Step #5
+- Check out other resumes, LinkedIn profiles, and job postings for ideas of how best to market yourself and your abilities.
+
+## How-to Step #6
+- Make sure you’ve created resume content to market yourself as a programmer.  Strengths and accomplishments from your past should be included where relevant, but shouldn’t detract from your current path.
 
 ## Things to Avoid
 - Exceeding one page in length (outside of very specific circumstances)
