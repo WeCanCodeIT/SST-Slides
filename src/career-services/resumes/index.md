@@ -42,26 +42,7 @@ In this session, students should all bring a copy of their current resume to cla
 
 - [WCCI Starter Resume Template](https://docs.google.com/document/d/15enbNPsfgIxnn1h9U0ycjRZFZuECQ5HbhfZmuudsZpk/edit?usp=sharing)
 
-## Activity
-
-Objective: Students can learn to identify characteristics in a resume that will make them attractive (or off-putting) to potential employers.  This exercise should help give them ideas of what they will or won’t include in their resume, their preferences on aesthetics/layout of resume, etc.  Feedback from both classmates and instructors should help guide some of these decisions effectively.
-
-Activity Instructions: 
-
-- Provide a few brief programmer/tech job descriptions (for back-end, front-end, full-stack) for students to review in groups.  Each group will act as the hiring team for these roles.  
-
-- Provide students access to several different resumes to review.  (insert link to sheet of selected resumes)
-
-- Ask students to identify which resumes they would invite for an interview for each position.  Based only on resume, who would they hire?  Why?  Each group shares out with the entire class about their choices.
-
-- Specifically review resumes that were not selected for interviews or hires.  Why did students not feel these candidates were the best choices?  What about those resumes didn’t they like?
-
-- Finally, review why the more popular resumes were preferred.  What impression of the candidates who submitted these resumes did the students have?  What did they like about how they showcased their skills?  About how they looked?
-
-
 ## Homework
-
-Due Date: By beginning of next CS session.
 
 Submission Method:  [Share link to Google Doc with SSC](https://goo.gl/forms/hJx9BJ4c3XrvVL3S2)
 
