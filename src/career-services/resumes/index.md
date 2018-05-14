@@ -1,5 +1,5 @@
-title: Opportunity Characteristics Inventory
-subtitle: Self Study
+title: Resume Workshop
+subtitle: Getting Started
 theme: league
 
 ## Resume Workshop
