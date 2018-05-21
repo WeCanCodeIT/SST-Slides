@@ -3,10 +3,10 @@ subtitle: Getting Started
 theme: league
 
 ## Resume Workshop
-In this session, students should all bring a copy of their current resume to class. We will be focusing on making some initial updates to the resume, so it’s ready for general purpose use. This will also serve as a guide for the following session on developing a strong LinkedIn profile.
+A resume is a summary of your education, qualifications, and past experiences.
 
 ## Discussion Questions
-- What is the purpose of a resume?  Why employers ask for them, and what are they looking for?
+- What is the purpose of a resume?  Why do employers ask for them, and what are they looking for?
 - How will your resume look different from versions before you decided on this field?  How will it look similar?
 
 
@@ -20,13 +20,14 @@ In this session, students should all bring a copy of their current resume to cla
 - Determine whether you need a [chronological, functional, or combination](https://www.thebalance.com/resume-types-chronological-functional-combination-2063235) resume (most will need combination, but it is worth reviewing your options and making certain you're using the format that best serves your needs.
 
 ## How-to Step #4
-- Brainstorm & write out a list of your most desirable, related qualifications (should form the cornerstone of your resume) This will include your tech stack (you’ll need to choose the list from your specific campus, available within the template resume) your projects and work at WCCI and any other programming experience, and other core competencies and strengths.  Make sure these shine in your content, by choosing projects that show your best work (don’t worry if you’re not there yet!) and quantifiable, demonstrable abilities and achievements from your work experience.
+- Brainstorm & write out a list of your most desirable, related qualifications (should form the cornerstone of your resume). 
+- Make sure these shine in your content, by choosing projects that show your best work (don’t worry if you’re not there yet!) and quantifiable, demonstrable abilities and achievements from your work experience.
 
 ## How-to Step #5
 - Check out other resumes, LinkedIn profiles, and job postings for ideas of how best to market yourself and your abilities.
 
 ## How-to Step #6
-- Make sure you’ve created resume content to market yourself as a programmer.  Strengths and accomplishments from your past should be included where relevant, but shouldn’t detract from your current path.
+- Make sure you’ve created resume content to market yourself as a programmer.  
 
 ## Things to Avoid
 - Exceeding one page in length (outside of very specific circumstances)
@@ -36,11 +37,6 @@ In this session, students should all bring a copy of their current resume to cla
 - Unnecessary or out-of-date filler (ex. References available upon request, generic strengths, etc.)
 - Typos and grammatical errors
 - Lying (this includes exaggeration)
-
-
-## Examples
-
-- [WCCI Starter Resume Template](https://docs.google.com/document/d/15enbNPsfgIxnn1h9U0ycjRZFZuECQ5HbhfZmuudsZpk/edit?usp=sharing)
 
 ## Homework
 
