@@ -24,6 +24,7 @@ Here's what your headline should include:
 - Specify a job title that can be identified with
 
 Before Example: “Vice President Sales at ABC Corporation” (your current position)
+
 After Example: “VP Sales. Revenue Growth in Cloud-Enabled Technology Solutions. Product Development & Sales Operations Leadership”  (your current position with more keywords added to more fully explain it)
 
 ## Tools for Step 2:
