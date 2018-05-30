@@ -32,7 +32,7 @@ After Example: “VP Sales. Revenue Growth in Cloud-Enabled Technology Solutions
 - [Software Engineer Skills List](https://www.thebalance.com/software-engineer-skills-list-2062483)
 - [Indeed JobTrends for Keyword Search](https://www.indeed.com/jobtrends)
 - Use other developers as examples. What keywords are they using? What do their headlines say?
-(Remeber, not all LinkedIn profiles of other developers are necessarily good examples)
+(Remember, not all LinkedIn profiles of other developers are necessarily good examples)
 
 ## Step 3: Present a Professional Profile Photo
 - Once you have taken and received your edited headshot, be sure to upload it to LinkedIn.
