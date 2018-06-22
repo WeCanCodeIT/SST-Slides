@@ -7,11 +7,11 @@ theme: league
 An informational interview is an informal meeting between a job seeker and a potential employer connection the gives the job seeker an opportunity to seek career advice and learn more about a company's culture, while the employer connection gets an opportunity to get to know a potential candidate for hiring.
 
 ## How to Get an Informational Interview
-- [ ] Keep the message short (letting them know you're looking for help early in the message)
-- [ ] Be clear about why you are reaching out (Why did you reach out to them in particular?)
-- [ ] Be clear about who you are (Consider things you have in common)
-- [ ] Be specific and flexible in your ask (BE CONSIDERATE OF TIME)
-- [ ] Consider the subject line (i.e. "Saw your article on LinkedIn, would love to connect")
+- Keep the message short (letting them know you're looking for help early in the message)
+- Be clear about why you are reaching out (Why did you reach out to them in particular?)
+- Be clear about who you are (Consider things you have in common)
+- Be specific and flexible in your ask (BE CONSIDERATE OF TIME)
+- Consider the subject line (i.e. "Saw your article on LinkedIn, would love to connect")
 
 Things to Avoid:
 - Poor word choice (i.e. "Pick your brain"), [grammar and spelling](https://www.grammarly.com/) mistakes
@@ -48,16 +48,16 @@ Things to Avoid:
   - "Is there anyone else you would recommend that I speak with?"
 
 ## With Whom to Get an Informational Interview
-- [ ] Choose people who are in an aspirational role, but not so high up on the ladder that they may not have time to respond to your ask
-- [ ] Try to find someone you have common ground with, such as same alma mater, same sorority/fraternity, mutual connections, also a changed careers/industries, etc.)
+- Choose people who are in an aspirational role, but not so high up on the ladder that they may not have time to respond to your ask
+- Try to find someone you have common ground with, such as same alma mater, same sorority/fraternity, mutual connections, also a changed careers/industries, etc.)
 
 ## Homework
-- [ ] Find 2 people to request an informational interview
-- [ ] Draft a message for each and get feedback from at least 1 teammate from your cohort
-- [ ] After receiving feedback and proof-reading one last time yourself, send your messages
+- Find 2 people to request an informational interview
+- Draft a message for each and get feedback from at least 1 teammate from your cohort
+- After receiving feedback and proof-reading one last time yourself, send your messages
 
 ## Additional Resources
-Sample Questions: http://hrweb.mit.edu/system/files/Sample+Informational+Interview+Questions.pdf 
+[Sample Questions](http://hrweb.mit.edu/system/files/Sample+Informational+Interview+Questions.pdf)
 
 ## Never Ghost!
 Ghosting: The act of discontinuing contact for a period of time or lacking responsiveness to communications.
