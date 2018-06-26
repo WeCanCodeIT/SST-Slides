@@ -4,7 +4,7 @@ theme: league
 
 ## Informational Interviews
 
-An informational interview is an informal meeting between a job seeker and a potential employer connection the gives the job seeker an opportunity to seek career advice and learn more about a company's culture, while the employer connection gets an opportunity to get to know a potential candidate for hiring.
+An informational interview is an informal meeting between a job seeker and a potential employer connection that gives the job seeker an opportunity to seek career advice and learn more about a company's culture, while the employer connection gets an opportunity to get to know a potential candidate for hiring.
 
 ## How to Get an Informational Interview
 - Keep the message short (letting them know you're looking for help early in the message)
